@@ -1,6 +1,6 @@
 ﻿using System.Xml.Serialization;
 
-namespace EagleSharp.Model
+namespace OriginalCircuit.EagleSharp.Model
 {
     
     [System.SerializableAttribute()]

@@ -2,7 +2,7 @@
 using System.Xml.Serialization;
 using System.ComponentModel;
 
-namespace EagleSharp.Model
+namespace OriginalCircuit.EagleSharp.Model
 {
     [Serializable()]
     [System.Diagnostics.DebuggerStepThrough()]

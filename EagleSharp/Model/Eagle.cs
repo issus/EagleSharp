@@ -4,7 +4,7 @@ using System.Diagnostics;
 using System.Xml.Serialization;
 
 
-namespace EagleSharp.Model
+namespace OriginalCircuit.EagleSharp.Model
 {
     
     [Serializable()]
